@@ -1,3 +1,0 @@
-# Plain HTML/CSS/JS website: no build command or Node runtime is needed.
-# Publish only the public directory; SQL and documentation stay out of the website.
-public: public
