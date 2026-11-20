@@ -11,7 +11,7 @@ export const SITE_CONFIG = {
     telegram: 'https://t.me/Borhan_SK_bot',
     linkedin: 'https://www.linkedin.com/in/borhan-sk/',
     github: 'https://github.com/dBorhanSK',
-    email: 'YOUR_EMAIL@example.com'
+    email: 'dBorhan.SK@example.com'
   },
   maxUploadBytes: 12 * 1024 * 1024
 };
