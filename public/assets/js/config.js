@@ -2,15 +2,15 @@
 // not secrets. NEVER place an Appwrite API key in this file.
 export const SITE_CONFIG = {
   appwriteEndpoint: 'https://fra.cloud.appwrite.io/v1',
-  appwriteProjectId: 'YOUR_APPWRITE_PROJECT_ID',
+  appwriteProjectId: '6af9a0a7000035d5d551',
   appwriteDatabaseId: 'borhan_sk',
-  appwriteOwnerUserId: 'YOUR_APPWRITE_OWNER_USER_ID',
+  appwriteOwnerUserId: '6afef76b00124e0aa655',
   appwriteBucketId: 'client_files',
   appwriteDeliveryFunctionId: 'delivery_link',
   social: {
-    telegram: 'https://t.me/YOUR_CHANNEL',
-    linkedin: 'https://www.linkedin.com/in/YOUR_PROFILE/',
-    github: 'https://github.com/YOUR_USERNAME',
+    telegram: 'https://t.me/Borhan_SK_bot',
+    linkedin: 'https://www.linkedin.com/in/borhan-sk/',
+    github: 'https://github.com/dBorhanSK',
     email: 'YOUR_EMAIL@example.com'
   },
   maxUploadBytes: 12 * 1024 * 1024
