@@ -1,0 +1,8 @@
+{
+  "name": "borhan-sk-order-chat",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20.0.0" },
+  "dependencies": { "node-appwrite": "^31.3.0" }
+}
